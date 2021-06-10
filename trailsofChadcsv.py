@@ -21,8 +21,11 @@ with open("brett_comics.txt", "r") as comicfile:
                            4. X-men
                            5. Dont want to view anything
                            """)
-    while comicInput not == "5":
-        if comicReader == "1":
+        # while loop to display ASCII and list comics by title 
+        # loop will exit when user pick's option 5
+#    while comicInput != "5":
+        if comicInput == "1":
+            clearScreen()
             cat /home/student/mycode/spiderman.txt
             time.sleep(3)
             print("This is what I have for Spider-Man in my collection")
