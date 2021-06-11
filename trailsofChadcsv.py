@@ -23,7 +23,7 @@ with open("brett_comics.txt", "r") as comicfile:
                            """)
         # while loop to display ASCII and list comics by title 
         # loop will exit when user pick's option 5
-#    while comicInput != "5":
+     while comicnput != "5":
         if comicInput == "1":
             clearScreen()
             cat /home/student/mycode/spiderman.txt
