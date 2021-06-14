@@ -25,7 +25,7 @@ def comicReader(reader):
                        """)
     # while loop to display ASCII and list comics by title 
     # loop will exit when user pick's option 5
-    while comicInput != "5":
+    while comicInput != "6":
         if comicInput == "1":
             os.system("clear")
             with open("/home/student/mycode/spiderman.txt") as spidey:
