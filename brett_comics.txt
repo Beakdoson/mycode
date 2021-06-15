@@ -324,4 +324,3 @@ X-Men, Vol. 4;7;Lifedeath;Marvel Comics;43887;Jonathan Hickman, Leinil Francis Y
 X-Men, Vol. 4;8;Swarm;Marvel Comics;43901;Jonathan Hickman, Mahmud Asrar
 X-Men, Vol. 4;9;The King Egg;Marvel Comics;43915;Jonathan Hickman, Leinil Francis Yu
 X-Men, Vol. 4;10;Empyre - Fire;Marvel Comics;44041;Jonathan Hickman, Leinil Francis Yu
-
