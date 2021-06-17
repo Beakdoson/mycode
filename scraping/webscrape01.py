@@ -48,7 +48,7 @@ def log_error(e):
     print(e)
 
 def main():
-    raw_html = simple_get('https://alta3.com')
+    raw_html = simple_get('https://hobbylark.com/fandoms/The-Epic-List-of-250-Legendary-Swords')
 
     print(len(raw_html))
 
